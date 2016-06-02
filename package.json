@@ -28,7 +28,8 @@
     "yeoman-generator": "^0.18.0",
     "chalk": "^0.5.0",
     "yosay": "^0.3.0",
-    "npm-name": "^1.0.1"
+    "npm-name": "^1.0.1",
+    "request": "^2.72.0"
   },
   "devDependencies": {
     "coffee-script": "^1.6.3",
